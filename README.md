@@ -6,3 +6,6 @@ Pozele hainelor pentru meniul de haine și inventarul serverului Ryse, servite p
 - `clothing/gta/<gen>/<c|p><comp>/<colectie>/<local>.webp`: hainele din joc, toate variantele unui model una lângă alta.
 
 Se copiază din `ryse-vrp/server-data/resources/[interface]/ryse_ui/clothing`. Nu edita aici de mână.
+
+- `vehicles/studio/<model>.webp`: pozele mașinilor din Evolent Studio (panoul web și meniurile din joc). Se copiază cu
+  `node tools/vehicle-photos-cdn.mjs` din ryse-vrp (din `server-data/resources/[tools]/evolent_studio/photos`).
